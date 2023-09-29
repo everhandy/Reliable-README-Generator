@@ -29,8 +29,8 @@ n/a
 ## Usage:
   
 Run through the command line (such as GitBash) using the command 'node index.js' while in the READMEgenerator folder. With answers to this series of questions, a professional README.md will be generated with the users responses.
-
-[Link to Video Walkthrough](./Reliable%20README%20Generator%20Walkthrough.webm)
+  
+[Link to Video Walkthrough](.https://drive.google.com/file/d/1ZISCIlqL4krLZf1JsLEgn75VgxJYo-17/view)
   
 ## License:
   
