@@ -1,10 +1,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
       
-# README Generator
+# Reliable README Generator
       
 ## Description:
       
-This project generates a professional README.md once a user answers a seriesof questions through the command line.
+This project generates a professional README.md once a user answers a series of questions through the command line.
   
 ## Table of Contents:
   
@@ -24,17 +24,19 @@ This project generates a professional README.md once a user answers a seriesof q
   
 ## Installation:
   
-N/A
+n/a
   
 ## Usage:
   
- Run through the command line (such as GitBash) using the command 'node index.js' while in the READMEgenerator folder.  With answers to this series of questions, a professional README.md will be generated with the users responses.
+Run through the command line (such as GitBash) using the command 'node index.js' while in the READMEgenerator folder. With answers to this series of questions, a professional README.md will be generated with the users responses.
+
+[Link to Video Walkthrough](./Reliable%20README%20Generator%20Walkthrough.webm)
   
 ## License:
   
 MIT License
     
-Copyright (c) [2023] [ everhandy]
+Copyright (c) [2023] [everhandy]
                 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
                 
@@ -46,11 +48,11 @@ https://www.mit.edu/~amini/LICENSE.md
   
 ## How to Contribute:
   
-Please reach out to me beforehand by email or through GitHub
+n/a
   
 ## Tests:
   
-N/A
+n/a
   
 ## Questions:
 
